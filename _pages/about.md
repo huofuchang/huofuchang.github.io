@@ -17,6 +17,7 @@ Research Interests
 ======
 - Non-standard finite element method for PDEs: Elasticity equation, Biharmonic equation
 - Computational Inverse Problems
+- Industrial Software Development
 
 
 Contact
